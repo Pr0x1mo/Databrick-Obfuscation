@@ -1,4 +1,4 @@
-# finmod-shield
+# Databrick-Obfuscation
 
 Deterministic data obfuscation pipeline for the CIBC Finance Modernization platform.
 
