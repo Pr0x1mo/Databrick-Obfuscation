@@ -1,0 +1,5 @@
+# Databricks cluster runtime provides pyspark, hmac, hashlib, re, datetime
+# Install these on the cluster or via %pip install in Cell 1
+
+faker==24.11.0
+pyodbc==5.1.0

@@ -1,0 +1,23 @@
+# Environment and secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Databricks local run artifacts
+.databricks/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
